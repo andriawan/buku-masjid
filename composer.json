@@ -31,6 +31,7 @@
         "fakerphp/faker": "^1.14",
         "filp/whoops": "^2.0",
         "laravel/legacy-factories": "^1.1",
+        "laravel/sail": "^1.25",
         "luthfi/simple-crud-generator": "^4.0",
         "mockery/mockery": "^1.0",
         "phpunit/phpunit": "^10.0"
