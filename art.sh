@@ -1,0 +1,1 @@
+docker compose -f docker-compose-sail.yml exec laravel.test php artisan "$@"
